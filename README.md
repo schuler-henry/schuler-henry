@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🙋🏻‍♂️ About me
+Hi, I am [Henry Schuler](https://henry-schuler.vercel.app) 👋
 
-<!--
-**schuler-henry/schuler-henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a bachelor student at the [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite), in corperation with [Bosch Immenstadt](https://www.bosch.de/unser-unternehmen/bosch-in-deutschland/immenstadt/), since 2020. I am also the owner of the official [GitHub organization](https://github.com/DHBW-FN-TIT20) of our class TIT20, where a collection of our coding projects are published.
 
-Here are some ideas to get you started:
+# ⚙️ Currently working on
+- My web page [henry-schuler.vercel.app](https://henry-schuler.vercel.app)
+- [Latex template](https://github.com/schuler-henry/dhbw-latex-template), a universal template for writing a thesis at DHBW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✔️ Developed projects
+- [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style
+- [WebNotes](https://github.com/DHBW-FN-TIT20/web-notes), an online note app with collaboration functionality
+- [Timediff](https://github.com/schuler-henry/snp-timediff), a program that evaluates time differences between timestamps, written in assembly x86-64
+
+# 📫 How to reach me:
+- E-Mail: [henryschuler@outlook.de](mailto:henryschuler@outlook.de)
+
+# ❓ FAQ
+I currently develop in Typescript, C++, and Python using [Visual Studio Code](https://code.visualstudio.com) (monokai-themed).
