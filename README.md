@@ -16,4 +16,4 @@ I am a bachelor student at the [DHBW Friedrichshafen](https://www.ravensburg.dhb
 - E-Mail: [contact@henryschuler.de](mailto:contact@henryschuler.de)
 
 # ❓ FAQ
-I currently develop in Typescript, C++, and Python using [Visual Studio Code](https://code.visualstudio.com) (monokai-themed).
+I currently develop in Typescript, C++, C#, Groovy and Python using [Visual Studio Code](https://code.visualstudio.com) (monokai-themed).
