@@ -4,7 +4,6 @@ Hi, I am [Henry Schuler](https://henryschuler.de) 👋
 I am a bachelor student at the [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite), in corperation with [Bosch Immenstadt](https://www.bosch.de/unser-unternehmen/bosch-in-deutschland/immenstadt/), since 2020. I am also the owner of the official [GitHub organization](https://github.com/DHBW-FN-TIT20) of our class TIT20, where a collection of our coding projects are published.
 
 # 📱 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/schuler.henry/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-schuler-7bb247235/)
 
 # ⚙️ Currently working on
