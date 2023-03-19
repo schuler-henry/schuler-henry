@@ -24,6 +24,7 @@ A student research project concerning the topic of user authentication using voi
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
+# ✔️ Developed projects
 ## Analysis of audio signals using linear predictive coding (LPC)
 A preliminary study for the [student research project](https://github.com/DHBW-FN-TIT20/sa-hs-lb-jb) on extracting parameters from audio files using linear predictive coding.
 
@@ -32,7 +33,6 @@ A preliminary study for the [student research project](https://github.com/DHBW-F
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
-# ✔️ Developed projects
 ## Know Where You Go
 A progressive web application (PWA) using location based services and reverse geocoding.
 
