@@ -1,13 +1,17 @@
 # 🙋🏻‍♂️ About me
+
 Hi, I am [Henry Schuler](https://henryschuler.de) 👋
 
 I am a bachelor student at the [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite), in corperation with [Bosch Immenstadt](https://www.bosch.de/unser-unternehmen/bosch-in-deutschland/immenstadt/), since 2020. I am also the owner of the official [GitHub organization](https://github.com/DHBW-FN-TIT20) of our class TIT20, where a collection of our coding projects are published.
 
 # 📱 Social Media
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-schuler-7bb247235/)
 
 # ⚙️ Currently working on
+
 ## My web page
+
 [![](https://img.shields.io/badge/github-profile--webpage-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/schuler-henry/profile-webpage)</br>
 [![henryschuler.de](https://img.shields.io/badge/henryschuler.de-222222?style=for-the-badge&color=black&logo=data:image/png;base64,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)](https://henryschuler.de)
 ![henryschuler.de](https://img.shields.io/website-up-down-green-red/https/henryschuler.de?style=flat-square)</br>
@@ -16,16 +20,19 @@ I am a bachelor student at the [DHBW Friedrichshafen](https://www.ravensburg.dhb
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 
+# ✔️ Developed projects
+
 ## User authentication using voice recognition
+
 A student research project concerning the topic of user authentication using voice recognition.
 
-[![](https://img.shields.io/badge/github-sa--hs--lb--jb-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHBW-FN-TIT20/sa-hs-lb-jb)</br>
+[![](https://img.shields.io/badge/github-user--authentication--using--voice--recognition-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHBW-FN-TIT20/user-authentication-using-voice-recognition)</br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
-# ✔️ Developed projects
 ## Analysis of audio signals using linear predictive coding (LPC)
+
 A preliminary study for the [student research project](https://github.com/DHBW-FN-TIT20/sa-hs-lb-jb) on extracting parameters from audio files using linear predictive coding.
 
 [![](https://img.shields.io/badge/github-analysis--of--audio--signals--using--linear--predictive--coding--t3000-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/schuler-henry/analysis-of-audio-signals-using-linear-predictive-coding-t3000)</br>
@@ -34,6 +41,7 @@ A preliminary study for the [student research project](https://github.com/DHBW-F
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
 ## Know Where You Go
+
 A progressive web application (PWA) using location based services and reverse geocoding.
 
 [![JB](https://img.shields.io/badge/Johannes_Brandenburger-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/johannesbrandenburger)
@@ -55,6 +63,7 @@ A progressive web application (PWA) using location based services and reverse ge
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 ## Flight School
+
 An online flight school/simulator build with [three.js](https://threejs.org/).
 
 [![JB](https://img.shields.io/badge/Johannes_Brandenburger-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/johannesbrandenburger)
@@ -68,6 +77,7 @@ An online flight school/simulator build with [three.js](https://threejs.org/).
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ## Latex Template
+
 A universal template for writing a thesis at DHBW.
 
 [![DHBWLatexTemplate](https://img.shields.io/badge/github-dhbw--latex--template-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/schuler-henry/dhbw-latex-template)
@@ -76,16 +86,21 @@ A universal template for writing a thesis at DHBW.
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
 ## Other mentions
+
 - [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style (also view the [evaluation on aspects of software quality](https://github.com/DHBW-FN-TIT20/softwarequalitaet-dev-chat))
 - [WebNotes](https://github.com/DHBW-FN-TIT20/web-notes), an online note app with collaboration functionality
 - [Timediff](https://github.com/schuler-henry/snp-timediff), a program that evaluates time differences between timestamps, written in assembly x86-64
 
 # 📫 How to reach me:
+
 - E-Mail: [contact@henryschuler.de](mailto:contact@henryschuler.de)
 
 # ❓ FAQ
+
 ## My skills
+
 ### Programming languages and frameworks
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -105,11 +120,11 @@ A universal template for writing a thesis at DHBW.
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://reactjs.org)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-[![Framework7](https://img.shields.io/badge/Framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=white)](https://framework7.io)
 [![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
 [![JSONWebtokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)](https://jwt.io)
 
 ### Tools and services
+
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![GitHubPages](https://img.shields.io/badge/github_pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com)
@@ -125,12 +140,14 @@ A universal template for writing a thesis at DHBW.
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org)
 
 ## Currently learning
+
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![GithubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 
 ## IDEs and editors
+
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/de-de/idea/)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
@@ -138,11 +155,13 @@ A universal template for writing a thesis at DHBW.
 [![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 ## Which browser I use
+
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/de)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/de/download-chrome/)
 [![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/de/safari/)
 
 ## My hardware
+
 ![Lenovo](https://img.shields.io/badge/lenovo-Yoga_Slim_7-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)</br>
 ![AMDCPU](https://img.shields.io/badge/AMD-Ryzen_7_4700u-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![AMDGPU](https://img.shields.io/badge/AMD-Radeon_Renoir-ED1C24?style=for-the-badge&logo=amd&logoColor=white)</br>
