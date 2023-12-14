@@ -2,7 +2,7 @@
 
 Hi, I am [Henry Schuler](https://henryschuler.de) 👋
 
-I am a bachelor student at the [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite), in corperation with [Bosch Immenstadt](https://www.bosch.de/unser-unternehmen/bosch-in-deutschland/immenstadt/), since 2020. I am also the owner of the official [GitHub organization](https://github.com/DHBW-FN-TIT20) of our class TIT20, where a collection of our coding projects are published.
+I am a master student at the [University Ulm](https://www.uni-ulm.de) since 2023.
 
 # 📱 Social Media
 
